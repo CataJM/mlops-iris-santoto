@@ -85,5 +85,3 @@ Ejecutar `python run_pipeline.py --sin-preparar`. Debe detenerse en Validar con 
 - Ruta de aprendizaje S2, actividad 2.1.
 - Presentaciones de las sesiones 2 y 4.
 - Código base de la actividad 1.1.
-
-ChatGPT asistió en la generación y revisión del código, documentación e interpretación inicial. La estudiante ejecutó el notebook en Colab. La declaración definitiva debe reflejar la revisión y contribución efectivas de la estudiante.
